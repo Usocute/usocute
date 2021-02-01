@@ -1,4 +1,4 @@
-### Hi there,I'm USOCUTE 👋
+## Hi there,I'm USOCUTE 👋
 
 <!--
 **Usocute/usocute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠 Tech Stack
+- 💻 C | Java | C# | Node.js(Is Learning...)
+- 🌐 HTML | CSS | JavaScript | JQuery | Bootstrap
+- 🛢 MySQL | SQL Serve | Access
+- 🔧 Visual Studio code | IDEA/MyEclipse | Navicat| Git 
