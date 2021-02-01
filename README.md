@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🛠 Tech Stack
 - 💻 C | Java | C# | Node.js(Is Learning...)
-- 🌐 HTML | CSS | JavaScript | JQuery | Bootstrap                       ![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+- 🌐 HTML | CSS | JavaScript | JQuery | Bootstrap                       
 - 🛢 MySQL | SQL Serve | Access
 - 🔧 Visual Studio code | IDEA/MyEclipse | Navicat | Git 
+![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
